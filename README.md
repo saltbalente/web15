@@ -60,7 +60,7 @@ Verifica el rendimiento en:
 
 ## 📞 Contacto
 
-WhatsApp: +1 (332) 333-7351
+WhatsApp: +1 (760) 666-2274
 
 ## 📝 Optimizaciones
 

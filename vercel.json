@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "index_amp.html",
-      "use": "@vercel/static"
-    }
-  ],
   "routes": [
     {
       "src": "/",
-      "dest": "/index_amp.html"
-    },
-    {
-      "src": "/index_amp.html",
       "dest": "/index_amp.html"
     }
   ]
